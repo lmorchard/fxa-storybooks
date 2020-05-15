@@ -1,0 +1,8 @@
+commit 4361bc8a2843385b4f49a7fbd00dbf7159b7b543
+Merge: 253ec565d bf8bc234d
+Author: Jackie Munroe <jackiemunroe@users.noreply.github.com>
+Date:   Thu May 14 10:01:54 2020 -0700
+
+    Merge pull request #5258 from jackiemunroe/fxa-1848-add-plan-change-to-support-panel
+    
+    feat (support + auth server): add past product information to support panel
