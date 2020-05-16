@@ -1,0 +1,5 @@
+commit ce62ce9b60676918441ff049bc34a3de72b47cbe
+Author: Les Orchard <lorchard@mozilla.com>
+Date:   Fri May 15 20:04:51 2020 -0400
+
+    issue #4823: progress on storybook build script
