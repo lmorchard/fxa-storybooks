@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mozilla/fxa/tree/master/packages/fxa-payments-serverstatic/css/main.49de13b1.chunk.css",
+    "main.js": "/mozilla/fxa/tree/master/packages/fxa-payments-servermain.ee647d2a3e76ac3e083e.bundle.js",
+    "main.css.map": "/mozilla/fxa/tree/master/packages/fxa-payments-serverstatic/css/main.49de13b1.chunk.css.map",
+    "main.js.map": "/mozilla/fxa/tree/master/packages/fxa-payments-servermain.ee647d2a3e76ac3e083e.bundle.js.map",
+    "runtime~main.js": "/mozilla/fxa/tree/master/packages/fxa-payments-serverruntime~main.ee647d2a3e76ac3e083e.bundle.js",
+    "runtime~main.js.map": "/mozilla/fxa/tree/master/packages/fxa-payments-serverruntime~main.ee647d2a3e76ac3e083e.bundle.js.map",
+    "vendors~main.js": "/mozilla/fxa/tree/master/packages/fxa-payments-servervendors~main.ee647d2a3e76ac3e083e.bundle.js",
+    "vendors~main.js.map": "/mozilla/fxa/tree/master/packages/fxa-payments-servervendors~main.ee647d2a3e76ac3e083e.bundle.js.map",
+    "iframe.html": "/mozilla/fxa/tree/master/packages/fxa-payments-serveriframe.html",
+    "precache-manifest.25f492c25f7b7134519acee0c14e7d18.js": "/mozilla/fxa/tree/master/packages/fxa-payments-serverprecache-manifest.25f492c25f7b7134519acee0c14e7d18.js",
+    "service-worker.js": "/mozilla/fxa/tree/master/packages/fxa-payments-serverservice-worker.js",
+    "static/media/index.scss": "/mozilla/fxa/tree/master/packages/fxa-payments-serverstatic/media/visa.a5d3b1a0.svg",
+    "static/media/circled-confirm.svg": "/mozilla/fxa/tree/master/packages/fxa-payments-serverstatic/media/circled-confirm.3a49fa6c.svg",
+    "static/media/close.20a93424.svg": "/mozilla/fxa/tree/master/packages/fxa-payments-serverstatic/media/close.20a93424.svg",
+    "vendors~main.ee647d2a3e76ac3e083e.bundle.js.LICENSE.txt": "/mozilla/fxa/tree/master/packages/fxa-payments-servervendors~main.ee647d2a3e76ac3e083e.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.ee647d2a3e76ac3e083e.bundle.js",
+    "vendors~main.ee647d2a3e76ac3e083e.bundle.js",
+    "static/css/main.49de13b1.chunk.css",
+    "main.ee647d2a3e76ac3e083e.bundle.js"
+  ]
+}
