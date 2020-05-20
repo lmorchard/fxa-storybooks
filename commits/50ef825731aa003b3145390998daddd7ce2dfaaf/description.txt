@@ -1,5 +1,0 @@
-commit 50ef825731aa003b3145390998daddd7ce2dfaaf
-Author: Les Orchard <lorchard@mozilla.com>
-Date:   Mon May 18 17:09:58 2020 -0400
-
-    issue #4823: moar progress
