@@ -1,0 +1,7 @@
+commit 7522f849f0d4e4c200a423e348aefc659e8fecce
+Author: Les Orchard <lorchard@mozilla.com>
+Date:   Fri May 15 20:04:51 2020 -0400
+
+    feat(storybook): build static gh-pages site from storybook builds
+    
+    issue #4823
